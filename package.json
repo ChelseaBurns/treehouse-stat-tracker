@@ -1,0 +1,19 @@
+{
+  "name": "treehouse-stat-tracker",
+  "version": "1.0.0",
+  "description": "A NodeJS command-line application to retrieve student's profile information from the Treehouse API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaBurns/treehouse-stat-tracker.git"
+  },
+  "author": "Chelsea Burns <co.designux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChelseaBurns/treehouse-stat-tracker/issues"
+  },
+  "homepage": "https://github.com/ChelseaBurns/treehouse-stat-tracker#readme"
+}
